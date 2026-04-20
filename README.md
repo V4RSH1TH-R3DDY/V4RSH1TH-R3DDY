@@ -85,10 +85,6 @@ My current battlestation and workflow space.
   <img src="image.png" width="88%" alt="main desk setup" />
 </p>
 
-<p align="center">
-  <img src="image%20copy.png" width="88%" alt="secondary setup angle" />
-</p>
-
 ## GitHub Stats
 
 <p align="center">
