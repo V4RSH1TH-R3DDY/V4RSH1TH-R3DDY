@@ -29,10 +29,12 @@ Personalization checklist:
 
 <img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
-- Building full stack products with a strong focus on polish, performance, and maintainability.
-- Turning ideas into reliable shipped features with practical architecture.
-- Interested in developer tools, automation workflows, and modern web experiences.
-- Constantly improving systems, processes, and product quality.
+- I build and explore operating systems, focusing on kernel design and low-level architecture.
+- I write performance-oriented code in C, Rust, and Java, with an emphasis on control and efficiency.
+- I design clean, interactive frontends that make complex systems feel intuitive.
+- I develop physics simulations—especially space and orbital mechanics—with a focus on realism and performance.
+- I think in systems: from memory and processes to rendering and user interaction.
+- I enjoy breaking down complex problems and rebuilding them into scalable, well-structured solutions.
 
 <br clear="right" />
 
@@ -41,11 +43,11 @@ Personalization checklist:
 ### Languages
 
 <p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=fff" alt="C" />
   <img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell Script" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
