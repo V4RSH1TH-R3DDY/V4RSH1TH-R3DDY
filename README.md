@@ -10,7 +10,7 @@ Personalization checklist:
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=27&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Design+Focused+Builder;Automation+Enthusiast;Always+Learning%2C+Always+Shipping" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=27&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Operating+Systems+Enthusiast;Kernel+Developer" alt="typing animation" />
 </div>
 
 <p align="center">
