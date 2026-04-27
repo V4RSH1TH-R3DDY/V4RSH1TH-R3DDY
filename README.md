@@ -49,6 +49,7 @@ Personalization checklist:
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=fff" alt="C" />
   <img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell Script" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 ### Frameworks
@@ -81,7 +82,6 @@ Personalization checklist:
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/GitLab-330F55?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   <img src="https://img.shields.io/badge/Neovim-159286?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
   <img src="https://img.shields.io/badge/GTK_Toolkit-7FE719?style=for-the-badge&logo=gtk&logoColor=white" alt="GTK Toolkit" />
