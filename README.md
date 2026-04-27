@@ -14,9 +14,9 @@ Personalization checklist:
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varshith&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/varshith?style=for-the-badge&logo=github&label=Followers&color=0f766e" alt="followers" />
-  <img src="https://img.shields.io/github/stars/varshith?style=for-the-badge&logo=github&label=Total%20Stars&color=dc2626" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=V4RSH1TH-R3DDY&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/V4RSH1TH-R3DDY?style=for-the-badge&logo=github&label=Followers&color=0f766e" alt="followers" />
+  <img src="https://img.shields.io/github/stars/V4RSH1TH-R3DDY?style=for-the-badge&logo=github&label=Total%20Stars&color=dc2626" alt="stars" />
 </p>
 
 <p align="center">
@@ -87,13 +87,12 @@ My current battlestation and workflow space.
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=varshith&show_icons=true&hide_border=true&theme=algolia&rank_icon=github" alt="github stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=varshith&theme=algolia&hide_border=true" alt="github streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=V4RSH1TH-R3DDY&show_icons=true&hide_border=true&theme=algolia&rank_icon=github" alt="github stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=V4RSH1TH-R3DDY&theme=algolia&hide_border=true" alt="github streak" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshith&layout=compact&hide_border=true&theme=algolia" alt="top langs" />
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=varshith&theme=algolia&no-frame=true&row=2&column=3" alt="trophies" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V4RSH1TH-R3DDY&layout=compact&hide_border=true&theme=algolia" alt="top langs" />
 </p>
 
 ## Connect
